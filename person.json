@@ -1,0 +1,78 @@
+[
+  {
+    "gender": "male",
+    "name": {
+      "title": "mr",
+      "first": "Ram",
+      "last": "Jaiswal"
+    },
+    "location": {
+      "street": "Lane 1",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "pincode": "123456"
+    },
+    "email": "ram.jaiswal@test.com",
+    "login": {
+      "uuid": "1234",
+      "username": "rjram"
+    }
+  },
+  {
+    "gender": "female",
+    "name": {
+      "title": "ms",
+      "first": "Kiran",
+      "last": "Jaiswal"
+    },
+    "location": {
+      "street": "Lane 2",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "pincode": "123457"
+    },
+    "email": "kim.jaiswal@test.com",
+    "login": {
+      "uuid": "1234",
+      "username": "kim"
+    }
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "mr",
+      "first": "Ramesh",
+      "last": "Jaiswal"
+    },
+    "location": {
+      "street": "Lane 2",
+      "city": "Indore",
+      "state": "MP",
+      "pincode": "123456"
+    },
+    "email": "ram.jaiswal@test.com",
+    "login": {
+      "uuid": "2345",
+      "username": "rjramesh"
+    }
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "mr",
+      "first": "Raman",
+      "last": "Jaiswal"
+    },
+    "location": {
+      "street": "Lane 2",
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "pincode": "123456"
+    },
+    "email": "raman.jaiswal@test.com",
+    "login": {
+      "uuid": "1234",
+      "username": "raman"
+    }
+  }
+]
